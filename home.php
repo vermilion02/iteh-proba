@@ -35,11 +35,14 @@
                     <table id="myTable" class="table table-hover table-striped">
                         <thead>
                             <tr>
+
                                 <th>Predmet</th>
                                 <th>Katedra</th>
                                 <th>Sala</th>
                                 <th>Datum</th>
                                 <th>Selektuj</th>
+                                <!-- Dodat red -->
+                                <th>Izmeni</th>
                             </tr>
                         </thead>
                         <tbody>
